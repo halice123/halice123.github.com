@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "happy new year"
+title:  "happy new year : )"
 categories: [ Art, Lifestyle, Travel]
 image: assets/images/fraudeclosky.png
 ---
