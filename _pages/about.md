@@ -4,5 +4,6 @@ title: About
 permalink: /about
 ---
 
-<h3> Alice Olausson, 25 yrs. Malmö/Montpellier. </h3>
+
+<h1> Alice Olausson, art student. Malmö/Montpellier. Born in 1994. These are things that I do everyday. </h1>
 
