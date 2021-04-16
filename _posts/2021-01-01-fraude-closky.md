@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "bliss"
-categories: [ Art, Lifestyle, Travel]
+categories: [ Art, Lifestyle, Travel, Stock, Stock photos, Internet, Apple, Snake, Adam, Eve, Bliss]
 image: assets/images/fraudeclosky.png
 ---
 
