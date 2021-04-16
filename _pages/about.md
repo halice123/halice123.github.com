@@ -5,5 +5,5 @@ permalink: /about
 ---
 
 
-<h1> Alice Olausson, art student. Malmö/Montpellier. Born in 1994. These are little things that I do everyday. </h1>
+<h1> Alice Olausson, b. 1994 in Sweden. Based in Malmö/Montpellier/Berlin. 4th year student at MO.CO.ESBA. </h1>
 
